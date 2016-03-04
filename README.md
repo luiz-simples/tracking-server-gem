@@ -1,5 +1,8 @@
 # Tracking::Api
 
+[SERVER](https://tracking-server.herokuapp.com/)
+[SAMPLE](https://tracking-pages.herokuapp.com/)
+
 ## Installation
 
 Add this line to your application's Gemfile:
